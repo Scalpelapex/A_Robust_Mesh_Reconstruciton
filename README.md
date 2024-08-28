@@ -49,14 +49,19 @@ Case05_Square_Torus.cpp
 The input and output of the model can be modified in the code.
 
 ## Results
+
 ### Process Diagram
+
 ![](https://github.com/Scalpelapex/Images/blob/main/VC_CDPS/Surface.gif)
 
 ### Comparison Results
+
 ![](https://github.com/Scalpelapex/Images/blob/main/VC_CDPS/Results.jpg)
 
 ## Citation
+
 If you found this code helpful, please consider citing:
+
 ```
 
 ```
