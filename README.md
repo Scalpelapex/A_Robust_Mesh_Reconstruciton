@@ -6,14 +6,18 @@ Lightweight triangular mesh model has great potential for real-time 3D visualiza
 ![](https://github.com/Scalpelapex/Images/blob/main/VC_CDPS/Overview.jpg)
 
 ## Environment setup
+
 Clone the repo: 
 > https://github.com/zhenguonie/VFCM-CHPS
 
 Open this project with Visual Studio 2019 on Windows x64
 
 ## Libraries
+
 Eigen >= 3.4.0
+
 Libigl >= 2.4.0
+
 CGAL >= 5.5.2
 
 ## Datasets
