@@ -36,10 +36,15 @@ The model dataset provided in this project is composed of multiple parts:
 We have provided five test cases, and their corresponding code and parameters are saved in the following five CPP files：
 
 Case01_Liver.cpp
+
 Case02_Lung.cpp
+
 Case03_Cube.cpp
+
 Case04_Sphere.cpp
+
 Case05_Square_Torus.cpp
+
 
 The input and output of the model can be modified in the code.
 
